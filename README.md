@@ -78,9 +78,10 @@ MelitX supports multiple fulfillment models designed for operational flexibility
 ## App Experience
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/823c8aad-29c7-46f0-a9e4-05937ba514bf" width="280"/>
   <img src="https://github.com/user-attachments/assets/4f288852-1d91-464e-affa-86b5132bf901" width="280"/>
+  <img src="https://github.com/user-attachments/assets/830a4b2a-6171-4291-a4d5-95f3aedfccf0" width="280"/>
   <img src="https://github.com/user-attachments/assets/dfdda838-4f88-43f3-9e2e-4e4279e4c59f" width="280"/>
+  <img src="https://github.com/user-attachments/assets/823c8aad-29c7-46f0-a9e4-05937ba514bf" width="280"/>
 </p>
 
 ---
