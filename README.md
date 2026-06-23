@@ -1,18 +1,19 @@
-# 🍱 MelitX
+<div align="center">
+  
+# MelitX
 
 ### Home Food, Reimagined.
 
-<img width="1536" height="1024" alt="bannerM" src="https://github.com/user-attachments/assets/df81ab65-42f0-41a3-b131-d81005df7ae8" />
-
 <p align="center">
+  <img width="100%" alt="MelitX Hero Banner"
+       src="https://github.com/user-attachments/assets/214bfb9a-d44e-47e5-9b22-ea82a87d6681" />
+</p>
+
 Connecting customers with trusted home kitchens through technology.
-</p>
 
-<p align="center">
-  <a href="https://melitx.com">🌐 Website</a> •
-  <a href="https://play.google.com/store/apps/details?id=com.melitx.app">📱 Google Play</a> •
-  <a href="#">📲 Appstore</a>
-</p>
+[🌐 Website](https://melitx.com) • [📱 Google Play Store](https://play.google.com/store/apps/details?id=com.melitx.app) • [📱 Indus App Store](#)
+
+</div>
 
 ---
 
@@ -71,17 +72,35 @@ MelitX supports multiple fulfillment models designed for operational flexibility
 * Chef-Managed Delivery
 * Future Third-Party Integrations
 
-<img width="1448" height="1086" alt="fleet" src="https://github.com/user-attachments/assets/73620df4-a664-481c-9428-21b6d059a391" />
+<p align="center">
+  <img width="100%" alt="MelitX Hero Banner"
+       src="https://github.com/user-attachments/assets/73620df4-a664-481c-9428-21b6d059a391" />
+</p>
 
 ---
 
-## App Experience
+## Discover
+  
+<h2 align="center">Product Preview</h2>
+
+<p align="center">
+  <img width="100%" alt="Carpoox Banner"
+             src="https://github.com/user-attachments/assets/7fc6566d-313a-403f-86c6-7fceeb2761dd" />
+</p>
+
+
+<br/>
+
+<h2 align="center">App Experience</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4f288852-1d91-464e-affa-86b5132bf901" width="280"/>
   <img src="https://github.com/user-attachments/assets/830a4b2a-6171-4291-a4d5-95f3aedfccf0" width="280"/>
+  <img src="https://github.com/user-attachments/assets/9de69628-ecc3-4395-8b22-d9bb1c1af697" width="280"/>
   <img src="https://github.com/user-attachments/assets/dfdda838-4f88-43f3-9e2e-4e4279e4c59f" width="280"/>
   <img src="https://github.com/user-attachments/assets/823c8aad-29c7-46f0-a9e4-05937ba514bf" width="280"/>
+  <img src="https://github.com/user-attachments/assets/bf8830ad-646f-476c-9128-ea62eb4d5d23" width="280"/>
+
 </p>
 
 ---
